@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2119759B25BECBE7007D3B0C /* fjlkasjfjsda.m in Sources */ = {isa = PBXBuildFile; fileRef = 2119759A25BECBE7007D3B0C /* fjlkasjfjsda.m */; };
 		2167E01525BEC07A0087EB77 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2167E01425BEC07A0087EB77 /* AppDelegate.m */; };
 		2167E01825BEC07A0087EB77 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2167E01725BEC07A0087EB77 /* SceneDelegate.m */; };
 		2167E01B25BEC07A0087EB77 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2167E01A25BEC07A0087EB77 /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2119759925BECBE7007D3B0C /* fjlkasjfjsda.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fjlkasjfjsda.h; sourceTree = "<group>"; };
+		2119759A25BECBE7007D3B0C /* fjlkasjfjsda.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = fjlkasjfjsda.m; sourceTree = "<group>"; };
 		2167E01025BEC07A0087EB77 /* git_commit_pre_hook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = git_commit_pre_hook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2167E01325BEC07A0087EB77 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2167E01425BEC07A0087EB77 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -137,6 +140,8 @@
 				2167E01725BEC07A0087EB77 /* SceneDelegate.m */,
 				2167E01925BEC07A0087EB77 /* ViewController.h */,
 				2167E01A25BEC07A0087EB77 /* ViewController.m */,
+				2119759925BECBE7007D3B0C /* fjlkasjfjsda.h */,
+				2119759A25BECBE7007D3B0C /* fjlkasjfjsda.m */,
 				2167E01C25BEC07A0087EB77 /* Main.storyboard */,
 				2167E01F25BEC07C0087EB77 /* Assets.xcassets */,
 				2167E02125BEC07C0087EB77 /* LaunchScreen.storyboard */,
@@ -174,7 +179,6 @@
 				7D506C5775DAD27E61FDD05F /* Pods-git_commit_pre_hookTests.debug.xcconfig */,
 				F94F04D0B7C26CA39C029435 /* Pods-git_commit_pre_hookTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -382,6 +386,7 @@
 				2167E01B25BEC07A0087EB77 /* ViewController.m in Sources */,
 				2167E01525BEC07A0087EB77 /* AppDelegate.m in Sources */,
 				2167E02625BEC07C0087EB77 /* main.m in Sources */,
+				2119759B25BECBE7007D3B0C /* fjlkasjfjsda.m in Sources */,
 				2167E01825BEC07A0087EB77 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
